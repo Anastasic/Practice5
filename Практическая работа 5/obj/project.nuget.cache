@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9q2P9Uk0r6XKZGu77Km33/BHtonf/EFhqp0cqK3vhOdU6ef7wQh9X0yrbimlNHaY948wK5PV0/biE98oMwLOw==",
+  "success": true,
+  "projectFilePath": "D:\\Практика\\Практическая работа 5\\Практическая работа 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
